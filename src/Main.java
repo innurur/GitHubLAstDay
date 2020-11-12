@@ -5,5 +5,6 @@ public class Main {
         System.out.println("But it was fast");
         System.out.println("We need more practice");
         System.out.println("Especially with codes");
+        // comment line here
     }
 }
