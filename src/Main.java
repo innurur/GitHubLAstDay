@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Hello Git Last Day");
         System.out.println("It was helpful");
         System.out.println("But it was fast");
+        System.out.println("We need more practice");
+        System.out.println("Especially with codes");
     }
 }
